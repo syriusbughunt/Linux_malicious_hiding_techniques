@@ -3,7 +3,7 @@ After searching on my own for clear and well detailed techniques to modify and h
 
 ## 0x00 : Introduction on Linux processes
 
-What Exactly is a 'process' ? A process is compiled source code that is currently running on the operating system. Today we will explore the details about a particular operating system; Linux. All processes have a process id or **PID**. Processes that start at system startup and keep running forever are called **daemon** processes or **daemons**. These **daemons** never die, unless you kill them. Those **daemon** processes  seems like a great way for malicious users to keep their malwares running :smirk:
+What Exactly is a 'process' ? A process is compiled source code that is currently running on the operating system. Today we will explore the details about a particular operating system; Linux. All processes have a process id or **PID**. Processes that start at system startup and keep running forever are called **daemon** processes or **daemons**. These **daemons** never die, unless you kill them. Those **daemon** processes  seems great for malicious users to keep their malwares running :smirk:
 
 ## 0x01 : Discovering the running processes on your system
 
