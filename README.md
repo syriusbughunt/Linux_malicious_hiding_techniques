@@ -9,7 +9,7 @@ What Exactly is a 'process' ? A process is compiled source code that is currentl
 
 There is different ways to see the current running processes, the most common tools is named **ps**. To see the current processes running under your current user, we would use **ps xww** which should give you something similar to the screenshot below:  
   
-<img src="https://github.com/syriusbughunt/PID_hiding_techniques/blob/master/img/capture01.jpg" width="1000"/>  
+<img src="https://github.com/syriusbughunt/PID_hiding_techniques/blob/master/img/capture02.jpg" width="600"/>  
   
 We could also use **ps auxww** to see all the running processes on the system, not only from our current user. To locate a process by his name, there is the **pgrep** command; *pgrep -l firefox* will return the following output in my shell:  
 ```
