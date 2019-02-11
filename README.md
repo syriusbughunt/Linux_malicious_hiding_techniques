@@ -1,5 +1,5 @@
 # Linux malicious hiding techniques
-After searching on my own for clear and well detailed techniques to modify and hide processes in a Linux environment, I thought it could be a good idea to share what I've found with people who would like to learn the methods used by malicious users.
+After searching on my own for clear and well detailed techniques to modify and hide processes in a Linux environment, I thought it could be a good idea to share what I've found with people who would like to learn the methods used by malicious users. I will also be covering on methods to hide TCP/UDP sockets from showing in netstat and also hide files/folders from the file system.
 
 ## 0x00 : Introduction on Linux processes
 
